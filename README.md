@@ -7,12 +7,12 @@ I'm passionate about technology and solving problems. 🚀
 I'm always open to new challenges. ⚡️
 
 
-#### What I'm studying 📚
+### What I'm studying 📚
 - HTML5 
 - CSS3
 - JavaScript
 - Python
 
-#### Find me 🌎 
+### Find me 🌎 
 📸  [Instagram](https://instagram.com/sauloveigr)  
 💼  [LinkedIn](https://www.linkedin.com/in/sauloveigr/)
