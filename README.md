@@ -15,7 +15,7 @@ I'm always open to new challenges. ⚡️
 
 ### My website:
 
-https://sauloveigr.github.io
+sauloveigr.github.io
 
 ### Find me 🌎 
 📸  [Instagram](https://instagram.com/sauloveigr)  
