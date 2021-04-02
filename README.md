@@ -17,6 +17,6 @@ I'm always open to new challenges. ⚡️
 
 https://sauloveigr.github.io
 
-#### Find me 🌎:
+### Find me 🌎:
 📸  [Instagram](https://instagram.com/sauloveigr)  
 💼  [LinkedIn](https://www.linkedin.com/in/sauloveigr/)
