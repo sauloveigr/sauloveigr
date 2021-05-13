@@ -6,13 +6,19 @@ I'm passionate about technology and solving problems. 🚀
 
 I'm always open to new challenges. ⚡️
 
-
 ### What I'm studying 📚:
 - HTML5 
 - CSS3
 - JavaScript
-- Python
 
+### What I know 📘:
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Git
+- GitHub
+- English
 
 ### Find me 🌎:
 📸  [Instagram](https://instagram.com/sauloveigr)  
