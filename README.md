@@ -2,7 +2,7 @@
  
 I'm from Brazil and I want to be a Web developer able to make great projects. 💻
 
-I'm passionate about technology and solving problems. 🚀
+I'm passionate about conding, technology and solving problems. 🚀
 
 I'm always open to new challenges. ⚡️
 
