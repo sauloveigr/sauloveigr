@@ -10,6 +10,7 @@ I'm always open to new challenges. ⚡️
 - HTML5 
 - CSS3
 - JavaScript
+- React
 
 ### What I know 📘:
 - HTML5
