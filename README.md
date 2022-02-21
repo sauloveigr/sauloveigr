@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Saulo Veiga 👋
 
+Estudante de Front-end com o objetivo de ser desenvolvedor 💻
+
  <div>
   <a href="https://github.com/sauloveigr">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sauloveigr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
