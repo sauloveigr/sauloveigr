@@ -2,6 +2,10 @@
 
 Front-end student trying to be a developer 💻
 
+• I'm studying React JS and JavaScript
+• I'm code streamer on twitch: https://www.twitch.tv/saulojsx
+• Portfolio (desktop): https://sauloveigr.github.io/portfolio-react/
+
  <div>
   <a href="https://github.com/sauloveigr">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sauloveigr&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
