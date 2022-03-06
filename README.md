@@ -9,6 +9,7 @@ Front-end student trying to be a developer 💻
 - Portfolio (desktop): https://sauloveigr.github.io/portfolio-react/ 📝
 
 <br>
+
  <div>
   <a href="https://github.com/sauloveigr">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sauloveigr&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
