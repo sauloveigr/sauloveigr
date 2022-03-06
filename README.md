@@ -1,6 +1,6 @@
-## Olá! Eu sou o Saulo Veiga 👋
+## Hello! I'm Saulo Veiga 👋
 
-Estudante de Front-end com o objetivo de ser desenvolvedor 💻
+Front-end student trying to be a developer 💻
 
  <div>
   <a href="https://github.com/sauloveigr">
