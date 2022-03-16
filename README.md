@@ -2,7 +2,7 @@
 
 Front-end student trying to be a developer 💻
 
-- I'm studying React JS, JavaScript and NodeJs 📚
+- I'm studying React JS, JavaScript and NodeJs (express js) 📚
 
 - I'm code streamer on twitch: https://www.twitch.tv/saulojsx 🎥
 
