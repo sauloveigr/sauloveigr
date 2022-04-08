@@ -6,7 +6,7 @@ Front-end student trying to be a developer 💻
 
 - I'm code streamer on twitch: https://www.twitch.tv/saulojsx 🎥
 
-- Portfolio (desktop): https://sauloveigr.github.io/portfolio-react/ 📝
+- Portfolio (desktop): https://sauloveigr.github.io/portfolio/ 📝
 
 <br>
 
