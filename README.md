@@ -1,6 +1,6 @@
 ## Hello! I'm Saulo Veiga 👋
 
-Front-end student trying to be a developer 💻
+Full Stack Developer 💻
 
 - I'm studying React JS, JavaScript and NodeJs (express js) 📚
 
