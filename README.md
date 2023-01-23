@@ -2,7 +2,7 @@
 
 Full Stack Developer at Traive Finance 💻
 
-- I'm studying React JS, JavaScript and NodeJs (express js) 📚
+- I'm studying React JS, Typescript and Node.js 📚
 
 - I'm code streamer on twitch: https://www.twitch.tv/saulojsx 🎥
 
