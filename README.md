@@ -2,13 +2,8 @@
 
 Full Stack Developer 💻
 
-- I'm studying React JS, Typescript and Node.js 📚
+- I'm studying React JS, Typescript and Node.js
 
-- I'm code streamer on twitch: https://www.twitch.tv/saulojsx 🎥
-
-- Portfolio (desktop): https://sauloveigr.github.io/portfolio/ 📝
-
-<br>
 
  <div>
   <a href="https://github.com/sauloveigr">
@@ -28,11 +23,5 @@ Full Stack Developer 💻
 </div>
  
 ##
-
-<div> 
-   <a href="https://www.linkedin.com/in/sauloveigr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/sauloveigr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:sauloveigr@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<div>
 
 
