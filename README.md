@@ -1,6 +1,6 @@
 ## Hello! I'm Saulo Veiga 👋
 
-Full Stack Developer at Traive Finance 💻
+Full Stack Developer 💻
 
 - I'm studying React JS, Typescript and Node.js 📚
 
