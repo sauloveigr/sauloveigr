@@ -2,15 +2,14 @@
 
 Frontend Developer 💻
 
-
- <div>
-  <a href="https://github.com/sauloveigr">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sauloveigr&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauloveigr&layout=compact&langs_count=7&theme=aura"/>
-</div>
+<!-- <div> -->
+<!--   <a href="https://github.com/sauloveigr"> -->
+<!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sauloveigr&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> -->
+<!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauloveigr&layout=compact&langs_count=7&theme=aura"/> -->
+<!-- </div> -->
  
  ##
- 
+
  <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg">
