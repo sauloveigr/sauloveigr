@@ -4,7 +4,8 @@
 
 I am professional with 3 years of experience in web development, working as a frontend developer with knowledge in responsive web interfaces, unit and end-to-end testing, task refinement, code review, bug fix and mentoring juniors and interns.
 
-🌍 Worked at a multinational company<br/>
+🌍 Worked at a multinational company with international teams<br/>
+🍁 Worked as a freelancer for a Canadian client<br/>
 🎥 Live coding streamer ([twitch](https://www.twitch.tv/saulojsx))<br/>
 💻 Delivered a 50-minute presentation on Clean Code to a technology team<br/>
 📚 Currently improving my skills in Next.js<br/>
