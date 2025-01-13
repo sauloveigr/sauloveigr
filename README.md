@@ -1,6 +1,6 @@
 ## Saulo Veiga 
 
-**`Frontend Developer 💻`**
+**`Front-end Developer 💻`**
 
 I am professional with 3 years of experience in web development, working as a frontend developer with knowledge in responsive web interfaces, unit and end-to-end testing, task refinement, code review, bug fix and mentoring juniors and interns.
 
