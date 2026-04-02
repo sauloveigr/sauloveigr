@@ -2,7 +2,7 @@
 
 **`Front-end Developer 💻`**
 
-I am professional with 4 years of experience in web development, working as a frontend developer with knowledge in responsive web interfaces, unit and end-to-end testing, task refinement, code review, bug fix and mentoring juniors and interns.
+I am professional with 4+ years of experience in web development, working as a frontend developer with knowledge in responsive web interfaces, unit and end-to-end testing, task refinement, code review, bug fix and mentoring juniors and interns.
 
 🌍 Worked at a multinational company with international teams<br/>
 🍁 Worked as a freelancer for a Canadian client<br/>
