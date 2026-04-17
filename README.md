@@ -2,7 +2,11 @@
 
 **`Front-end Developer 💻`**
 
-I am professional with 4+ years of experience in web development, working as a frontend developer with knowledge in responsive web interfaces, unit and end-to-end testing, task refinement, code review, bug fix and mentoring juniors and interns.
+I am a Front-end Engineer / Full Stack Developer with 4+ years of experience building scalable web applications across startup, fintech, e-commerce, and multinational environments.
+ 
+I specialize in creating high-performance, user-focused interfaces using React, Next.js, and TypeScript, while also contributing to backend services with Node.js and NestJS.
+
+I actively leverage AI-assisted development (generative AI) to accelerate feature delivery, enhance code quality, and optimize debugging and development workflows.
 
 🌍 Worked at a multinational company with international teams<br/>
 🍁 Worked as a freelancer for a Canadian client<br/>
