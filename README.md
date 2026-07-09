@@ -2,7 +2,7 @@
 
 **`Front-end Developer 💻`**
 
-I am a Front-end Engineer / Full Stack Developer with 4+ years of experience building scalable web applications across startup, fintech, e-commerce, and multinational environments.
+I am a Front-end Engineer / Full Stack Developer with 5 years of experience building scalable web applications across startup, fintech, e-commerce, and multinational environments.
  
 I specialize in creating high-performance, user-focused interfaces using React, Next.js, and TypeScript, while also contributing to backend services with Node.js and NestJS.
 
